@@ -2,24 +2,22 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Ph.D. student, School of Data Science, Fudan University
+secsubtitle: Shanghai, China
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: my_img_small.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>gaoyibo157[at]gmail.com</p>
+    <p>ybgao22[at]m.fudan.edu.cn</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+:wave:Hi! This is Yibo, currently working toward my Ph.D. degree in Statistics at [ZMIC Lab](https://zmiclab.github.io) in the [School of Data Science](https://sds.fudan.edu.cn), [Fudan University](https://www.fudan.edu.cn), advised by Prof. [Xiahai Zhuang](https://zmiclab.github.io/zxh/). I received a Bachelor of Engineering (B.Eng) degree in Electrical and Electronic Engineering from [University of Electronic Science and Technology of China](https://www.uestc.edu.cn) in the year 2022.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My research mainly focuses on medical image analysis, particularly in interpretable methods for medical image computing and extending them for practical clinical applications.

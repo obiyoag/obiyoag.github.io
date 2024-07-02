@@ -18,6 +18,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-:wave:Hi! This is Yibo, currently working toward my Ph.D. degree in Statistics at [ZMIC Lab](https://zmiclab.github.io) in the [School of Data Science](https://sds.fudan.edu.cn), [Fudan University](https://www.fudan.edu.cn), advised by Prof. [Xiahai Zhuang](https://zmiclab.github.io/zxh/). I received a Bachelor of Engineering (B.Eng) degree in Electrical and Electronic Engineering from [University of Electronic Science and Technology of China](https://www.uestc.edu.cn) in the year 2022.
+:wave:Hi! This is Yibo, currently working toward my Ph.D. degree in Statistics at [ZMIC Lab](https://zmiclab.github.io) in the School of Data Science, **Fudan University**, advised by Prof. [Xiahai Zhuang](https://zmiclab.github.io/zxh/). I received a Bachelor of Engineering (B.Eng) degree in Electrical and Electronic Engineering from **University of Electronic Science and Technology of China** in the year 2022.
 
 My research mainly focuses on medical image analysis, particularly in interpretable methods for medical image computing and extending them for practical clinical applications.
